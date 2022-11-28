@@ -1,0 +1,32 @@
+[
+    {
+        "name": "That Salads",
+        "price": 10,
+        "description": "Salads and soup",
+        "picture": ".\/menu\/soupsalad.jpg"
+    },
+    {
+        "name": "Spinach and Ricotta",
+        "price": 20,
+        "description": "A vegan",
+        "picture": ".\/menu\/spinach.jpg"
+    },
+    {
+        "name": "Beefsteak",
+        "price": 60,
+        "description": "Mains",
+        "picture": ".\/menu\/beefsteak.jpg"
+    },
+    {
+        "name": "Pasta with Prawns",
+        "price": 15,
+        "description": "Pasta",
+        "picture": ".\/menu\/pasta.jpg"
+    },
+    {
+        "name": "Chocolate Lava Cake",
+        "price": 10,
+        "description": "Dessert",
+        "picture": ".\/menu\/lavacake.jpg"
+    }
+]
